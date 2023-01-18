@@ -1,0 +1,16 @@
+.R1{
+    color:blue;
+    border: 10px;
+    border-color: darkorange;
+    text-align: center;
+}
+.R2{
+    color: orange;
+    text-align: center;
+    margin: 12px;
+    padding: 8px;
+}
+.R3{
+     color: chartreuse;
+    text-align: center;
+}
